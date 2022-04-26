@@ -1,5 +1,5 @@
 Proyecto almacenado en GitHub
-url repositorio: 
+url repositorio: https://github.com/AndresFRivero/concurso
 
 Aplicación realizada con Java v1.8
 
