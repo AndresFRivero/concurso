@@ -1,0 +1,6 @@
+com\concurso\datos\Conexion.class
+com\concurso\main\Main.class
+com\concurso\entidades\Categoria.class
+com\concurso\entidades\Pregunta.class
+com\concurso\datos\PreguntaJDBC.class
+com\concurso\entidades\Jugador.class
